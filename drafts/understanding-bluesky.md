@@ -58,18 +58,23 @@ Now that we’ve gotten through the technical side of things, let’s get to the
 
 1. Custom feeds (algorithms)
 
-Perhaps its flagship feature, Bluesky has become famous for how it allows anyone to not only choose which algorithm their feed uses, but also build their own.
+Perhaps its flagship feature, Bluesky has become famous for how it allows anyone to not only choose which algorithm their feed uses, but also build their own. Gone are the days of being forced to scroll through a non-chronological feed containing posts from random accounts you’ve never followed. For creators and brands, this means that your primary goal is no longer just “appeasing the algorithm”… because there isn’t just one singular algorithm to please.
 
-users unparalleled control over their individual experiences on the app. 
+2. Advanced feed/reply preferences
 
-2. Advanced feed preferences
+Hidden under the surface of Bluesky are a plethora of user customizations that anyone can make that apply to the “Following” feed (the reverse-chronological feed of posts from accounts someone follows) and beyond. For instance, users can disable seeing reposts, quote posts, and replies. Within threads, users have the option of ordering the replies however they want: most liked, oldest, newest, prioritize following, hot, or even random (aka “Poster’s Roulette”. 
 
 3. Third-party moderation services
-- moderation lists
-- report submissions
-- account and post labels
+
+After the AT Protocol launched, there was a lot of talk about the concept of “composable moderation”, which basically just means a suite of tools and infrastructure that would enable any third-party to provide moderation services on top of the network. After awhile, these tools finally started to exist and since then many experiments have popped up as a result. The most well known of which at this point is most likely a service called Blacksky. Blacksky was created by a member of the black community and provides a safe space for Black community building. Users can report posts/content to this third-party service and filter content out of their feeds based on it instead of Bluesky’s official moderation.
+
+There’s even a moderation service that automatically detects and flags screenshots from other prominent social networks like X and allows users to hide that content from their feeds completely. So, cross-posting by using screenshots might not be the wisest idea.
+
+Bluesky also has “moderation lists” that any user can create or subscribe to. On a basic level, they are just lists of accounts, but you can use them to automatically block or mute accounts in bulk with one tap. For instance, there are a series of semi-popular moderation lists for blocking or muting all accounts that follow more than a certain number of accounts (10,000+, 50,000+, etc). Lists like these allow people to keep follower farmers away from them before they even have a chance.
 
 4. Labelers + content filters
+
+ 
 
 5. Advanced reply/quote settings
 
@@ -85,6 +90,8 @@ users unparalleled control over their individual experiences on the app.
 
 11. No outbound link suppression
 
+While many think that Bluesky doesn’t have an algorithm, this actually isn’t true. 
+
 12. Paragraph breaks in bios
 
 13. Starter packs
@@ -94,3 +101,6 @@ users unparalleled control over their individual experiences on the app.
 
 ## The Future
 
+``
+Key takeaways:
+``

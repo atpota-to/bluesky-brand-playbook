@@ -12,6 +12,10 @@ But how do you do that exactly? While creating a Bluesky account is a simple tas
 
 The following is a simple playbook that you can use to help your brand easily navigate the complexities of Bluesky. We’ll cover everything from Bluesky’s culture, Discover algorithm, custom feeds, composable moderation, and much more... eventually landing at a cohesive foundational strategy that you can then build upon.
 
+``
+Key takeaways: With over 30 million users, Bluesky is now big enough to warrant having a presence there, and it brings with it a potentially high ROI for brands and creators willing to invest resources there.
+``
+
 ## About the author
 
 My name is Dame, and I was Bluesky’s 1,216th user. I joined during its early days at the beginning of 2023 when you had to have an invitation. I sent the CEO of Bluesky, Jay Graber, a private message on Twitter asking if she would invite me and she graciously obliged. 
@@ -41,6 +45,7 @@ With that being said, let’s get started.
 	- Assess high-performing content formats and structural elements (e.g., threads).
 	- Analyze Bluesky-specific features and determine optimal implementation strategies.
 	- Document platform-native content formats and unique functionality.
+	- Custom algorithms and what they mean for your content
 
 4. Community Growth & Engagement
 	- Propose strategic approaches for organic follower growth.
