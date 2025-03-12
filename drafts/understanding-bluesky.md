@@ -1,0 +1,96 @@
+# Understanding Bluesky
+
+## Backstory
+
+In 2019, the CEO of Twitter announced an internal research project called "Bluesky". The goal was to explore the feasibility of creating a decentralized protocol that could power Twitter and other social media platforms. After a couple of years and an initial funding pool of $13 million contributed by Twitter, Bluesky became an independent organization with zero ties to Twitter. In late 2022, Bluesky privately launched its new social media app to a small group of test users. The app was very similar to Twitter, but it was powered by what became known as the AT Protocol.
+
+## The AT Protocol
+
+While you might be tempted to gloss over the decentralized technology that underlies Bluesky, learning the basics of it can be extremely helpful in both understanding the Bluesky culture and also tapping into the unique opportunities it can provide.
+
+On a traditional social media site like Twitter or Facebook, all of the user data is controlled by one centralized entity — a for-profit corporation — and stored within that entity’s database in a proprietary data format that will only work with their app. If that social media app goes rogue, declines in quality, or gets bought by a billionaire, then the users don’t have much of a choice in the matter... they either have to forfeit all of the followers and content they amassed over a long period of time or continue using the platform despite all of its toxicity and general crappiness.
+
+The AT Protocol was built to solve this problem. 
+
+You can now own your social networking data, take it with you wherever you want, and never be locked into an app ever again.
+
+### Where your data is stored
+
+When you create an account with the Bluesky app, you’re actually creating an AT Protocol account, even if you don’t realize it. This account uses a standardized and interoperable data model that any developer, company, or person can connect to. When you make a post on Bluesky, reply to another user, or like an image, all of that data gets stored in your account’s Personal Data Server (PDS). The PDS is basically just a file folder containing lots of different files that gets stored on a server in the cloud. You as the user can decide which company (or even yourself) gets to “host” your data. By default, new Bluesky accounts have their PDS data hosted on one of many different Bluesky servers, each of which is named after a different type of mushroom.
+
+`` 
+list of mushroom servers
+``
+
+If Bluesky were to ever shutdown or become hostile, users could move their data to a new host and still maintain all of their likes, followers, and posts. 
+
+Think of it like your email provider. There are many different companies that provide email hosting services such as Gmail, Outlook, and iCloud. If you ever want to, you’re free to download all of your email archive and contacts and import that data into another email provider instead. The reason this is possible is because all of these companies chose to build their product on top of the decentralized protocol that emailing technology uses.
+
+In that sense, the AT Protocol is sort of like email but for social media.
+
+### How your data is stored
+
+Every single post, like, reply, or follow you make on Bluesky is stored in your PDS in the form of what is called a Lexicon record.
+
+For the non-technical in the audience, a Lexicon is basically just a file format for the AT Protocol... think of it like a file on your computer that might come in many different sizes and shapes: .jpg, .pdf, .doc, .txt
+
+These "file formats" are called NSIDs and look like domain names that are backwards. Here's what Bluesky's "file formats" look like under the hood:
+
+``
+app.bsky.actor.profile
+app.bsky.feed.like
+app.bsky.feed.post
+app.bsky.feed.repost
+app.bsky.graph.follow
+``
+
+Each of these files contains some of your data that is created from an app like Bluesky. By using services like atp.tools, you can see all of the data that lives within a Bluesky account's personal data server. Pretty neat, right? What's even better is that anyone can create their own "file format" for whatever suits their needs, and any app can easily support any other file format at the app developer's discretion.
+
+This is how the new "decentralized" versions of TikTok, Instagram, Goodreads, etc are able to work so easily. You sign into them with your Bluesky (AT Protocol) account, and they support many of Bluesky's native "file formats" out of the box. No need to write a new bio, upload a new avatar, or create a new username for every account... you simply sign in to an app and it all gets imported "magically".
+
+The AT Protocol is still relatively new, but already there are some exciting "file formats" for the AT Protocol that can do interesting things like help you manage events, chat with friends, or write long form blog posts.
+
+There’s a lot more happening under the surface, but that’s all you need to know for now. You can always read more at your own discretion over on the AT Protocol website.
+
+## How Bluesky is different from Twitter 
+
+Now that we’ve gotten through the technical side of things, let’s get to the fun stuff. I said at the beginning of this guide that Bluesky was basically a decentralized version of Twitter, and while that’s true, Bluesky has many features that Twitter (now X) never had. We’ll go through each of these features briefly in this section, but we’ll circle back later on to talk about how to actually leverage these features to be effective.
+
+1. Custom feeds (algorithms)
+
+Perhaps its flagship feature, Bluesky has become famous for how it allows anyone to not only choose which algorithm their feed uses, but also build their own.
+
+users unparalleled control over their individual experiences on the app. 
+
+2. Advanced feed preferences
+
+3. Third-party moderation services
+- moderation lists
+- report submissions
+- account and post labels
+
+4. Labelers + content filters
+
+5. Advanced reply/quote settings
+
+6. Domain names as usernames
+
+7. Free, open API
+
+8. Everything is public
+
+9. In-app media players
+
+10. Advanced thread preferences
+
+11. No outbound link suppression
+
+12. Paragraph breaks in bios
+
+13. Starter packs
+
+14. Nuclear block
+
+
+## The Future
+
