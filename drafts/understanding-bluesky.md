@@ -74,13 +74,23 @@ Bluesky also has “moderation lists” that any user can create or subscribe to
 
 4. Labelers + content filters
 
- 
+Connected to third-party moderation services are a special tool called “labelers”. A labeler… well, it applies labels to things. There are moderation labelers that allow you to hide, warn, or filter posts/accounts based on specific labels (i.e. like the screenshot labeler mentioned earlier), but then there are also vanity labelers that allow users to self-identify with communities, causes, and more by applying a voluntary public label to their own account. For instance, there’s a [vanity labeler for Swifties](https://bsky.app/profile/eras.bsky.sh) that lets them add a little “flair” to their profile in the form of their favorite Taylor Swift Era. Custom labelers of all types and sizes can be created by anyone, though the process to do so is still quite technical at this time.
 
 5. Advanced reply/quote settings
 
+Not only can you turn off replies to your Bluesky posts, but you can also customize reply permissions in extremely granular ways. For instance, you can specify that only users on a custom list can contribute to the conversation or make it so that someone has to be following you in order to reply. Additionally, you can prevent people from quoting your post completely. Both of these features are even available to apply retroactively.
+
 6. Domain names as usernames
 
+Ever been frustrated when joining a new app and learning that your username of choice has already been taken? On Bluesky, this problem is not nearly as significant thanks to the fact that all usernames on the network are actually domain names. When you create a new account, you can get a default username that looks like `name.bsky.social`, but you can (and should) setup your own. 
+
+Using your own domain name is also Bluesky’s native form of self-verification. There are no “blue checkmarks”, but people can verify that your account is legitimate if its username is your domain. For instance NPR (National Public Radio) has the username of @npr.org, which is also its official website. There are even many official government accounts that can be quickly identified by their country’s government domain structure (such as .gov in the United States).
+
+You can even setup subdomains as usernames, so if you are a company or part of an organization you could setup team member accounts such as name.brand.team. Bluesky itself does this for many of its employees—check out the CEO’s handle: @jay.bsky.team
+
 7. Free, open API
+
+
 
 8. Everything is public
 
