@@ -90,21 +90,31 @@ You can even setup subdomains as usernames, so if you are a company or part of a
 
 7. Free, open API
 
+Back in the day, Twitter used to have a free and relatively open API. But when Elon Musk took over, he quickly shut that down and started charging exorbitant prices to access its data. If you’re unsure of what an API is or why its significant, just compare the vibrant ecosystem of third-party integrations and applications that exists on Bluesky with what X has today. Bluesky is like a lush beautiful garden filled with lots of diverse plant life, and X is a vacant backlot with some old and dying landscaping. An API is merely a highway that developers and creators can use to retrieve and send data. With Bluesky, that highway is open, free, and let’s you explore the world. With X, only the wealthiest can drive on the highway and there are speed traps everywhere.
 
+An open and free API means an environment friendly to innovation, network effects, and the public good.
 
 8. Everything is public
 
+Speaking of the public, almost everything you do on Bluesky at the moment is publicly accessible data (even blocks and likes). This won’t matter that much to brands, organizations, and creators who explicitly want their content to be public, but it might matter to some of the people in your audience or community. Stay mindful about it, and just know that there are long-term plans to introduce some form of private accounts or content in the future. 
+
 9. In-app media players
 
-10. Advanced thread preferences
+On pretty much every other social platform, you and your audience can’t share a link to YouTube or Spotify or some other platform and just have the media play natively. You’d have to navigate outside of the social app and to YouTube in order to play the video. On Bluesky, this isn’t the case. You can listen to music or watch embedded videos without having to leave the app.
 
 11. No outbound link suppression
 
-While many think that Bluesky doesn’t have an algorithm, this actually isn’t true. 
+Since we’re on the subject of sharing links, now’s a great time to mention that another defining and powerful feature of Bluesky is that it doesn’t suppress and down rank content that contains links to outside websites. This is huge for companies, brands, and creators… you no longer need to perform silly algorithmic gymnastics just to convert followers into website visitors.
+
+Also, some people think that Bluesky doesn’t have an algorithm, but this actually isn’t true. Bluesky comes with two feeds out of the box: 1) Discover, and 2) Following. Discover is Bluesky’s proprietary suggestion algorithm similar to TikTok’s “For You” feed. The difference of course is that no one has to use the Discover feed or even have it appear in their app at all… you can disable it completely and rely upon the Following feed, another community-made feed, or a custom feed of your own design.
 
 12. Paragraph breaks in bios
 
+It’s a small detail, but Bluesky profiles have good flexibility in terms of how you can format your account’s bio, Making your description look nice and be readable isn’t a chore that requires tedious tricks or gimmicks.
+
 13. Starter packs
+
+ 
 
 14. Nuclear block
 
