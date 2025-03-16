@@ -114,12 +114,22 @@ It’s a small detail, but Bluesky profiles have good flexibility in terms of ho
 
 13. Starter packs
 
- 
+One of the difficult parts of joining a new social network is finding accounts that share your common interests and values. Bluesky tackled this issue head on by introducing an industry-first that was soon copied by Meta/Instagram: Starter Parks. At their core, Starter Packs are just hand-curated lists of accounts that anyone can make combined with an invite-link. By sharing a Starter Pack with someone, they can create a new Bluesky account and follow a bunch of relevant accounts instantly. This feature works especially well for community building, whether that’s for a city (Boston!), a fandom (kpop!), or even bicycle riders. If you’re a brand, you could setup a Starter Pack that has your entire team in it.
 
 14. Nuclear block
 
+Bluesky has intentionally tried to cultivate an environment where users have more control over who can interact with them. One of the ways they achieved this was through what is known as the Nuclear Block. When two people are engaged in a reply conversation on Bluesky, if one of them blocks the other person, then the entire thread of conversation becomes blocked from viewing for everyone else. This feature is a bit controversial, having divided the community into two camps: people who love it and people who hate it. There’s not much that can be done about it, so it’s good to just keep in mind if you ever run into a situation where you see a “blocked” message in a thread.
 
 ## The Future
+
+It’s only been a year since Bluesky opened its doors to the public, so we’re still in early days. There are lots of planned features and improvements that the Bluesky team has talked about. Here are a few of the things that we can likely expect in the future:
+
+1. Private data/accounts 
+2. Edit button
+3. Premium subscription
+4. Additional verification options
+5. User-friendly PDS management
+6. Native analytics
 
 ``
 Key takeaways:
