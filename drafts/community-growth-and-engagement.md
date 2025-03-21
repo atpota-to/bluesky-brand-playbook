@@ -7,8 +7,8 @@
 - Analyze current Bluesky algorithm behavior and content distribution patterns.
 - Analyze successful brand case studies on Bluesky.
 
-\
-## Draft Nots
+
+## Draft Notes
 
 https://swifties.social
 
