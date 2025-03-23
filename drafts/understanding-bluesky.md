@@ -114,7 +114,7 @@ It’s a small detail, but Bluesky profiles have good flexibility in terms of ho
 
 13. Starter packs
 
-One of the difficult parts of joining a new social network is finding accounts that share your common interests and values. Bluesky tackled this issue head on by introducing an industry-first that was soon copied by Meta/Instagram: Starter Parks. At their core, Starter Packs are just hand-curated lists of accounts that anyone can make combined with an invite-link. By sharing a Starter Pack with someone, they can create a new Bluesky account and follow a bunch of relevant accounts instantly. This feature works especially well for community building, whether that’s for a city (Boston!), a fandom (kpop!), or even bicycle riders. If you’re a brand, you could setup a Starter Pack that has your entire team in it.
+One of the difficult parts of joining a new social network is finding accounts that share your common interests and values. Bluesky tackled this issue head on by introducing an industry-first that was soon copied by Meta/Instagram: Starter Packs. At their core, Starter Packs are just hand-curated lists of accounts that anyone can make combined with an invite-link. By sharing a Starter Pack with someone, they can create a new Bluesky account and follow a bunch of relevant accounts instantly. This feature works especially well for community building, whether that’s for a city (Boston!), a fandom (kpop!), or even bicycle riders. If you’re a brand, you could setup a Starter Pack that has your entire team in it.
 
 14. Nuclear block
 
